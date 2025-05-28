@@ -1,0 +1,28 @@
+body{
+        display: flex;
+  font-family: arial black;
+}
+#maphoto{
+  border-radius: 50%;
+  background-position: left;
+  width:400px;
+  height:400px;
+}
+.information{
+  padding-left: 5px; 
+  background-color:;
+  background-image: url("armel.jpg"); 
+}
+.nom{
+  padding: 10px;
+  background-color: beige;
+}
+.profil{
+        color: blueviolet;
+text-align: center;        
+}
+#experience{
+        border-radius: 200%;
+}
+
+

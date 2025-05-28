@@ -1,0 +1,76 @@
+body{
+  margin: 0;
+  font-family: arial;
+}
+img{
+  position:left;
+  border-radius: 25%;
+  width:150px;
+  heigth:150px;
+}
+header{
+  display:flex;
+  background-color: deepskyblue;
+  height:250px;
+  padding: top;
+  margin: 2px;
+}
+nav {
+  list-style-type: none;
+  margin:4;
+  display :flex;
+}
+ nav div a {
+  text-decoration: none;
+  color:red;
+  padding: 17px;
+}
+section{
+ text-align: justify-all;
+  width:100%;
+  height: 100%;
+}
+video{
+  width:170px;
+  heigth:160px;  
+}
+.formu{
+  border:solid; 
+  margin-left:400px;
+  margin-right:200px;
+  padding: 0px;
+  position:center;
+  border-radius: 50px;
+  background-color: aliceblue;
+  
+  
+}
+label{
+  display: flex;
+  color:red;
+  padding: 3px;
+  margin: 2px;
+  
+}
+input{
+  display: flex;
+  
+  
+}
+button{
+  margin-left: 200px;
+  display:flex;
+  background-color: blueviolet;
+  
+}
+
+.intro{
+  text-align:center;
+  background-color: aquamarine;
+  
+}
+footer{
+  text-align:center;
+  background-color: aqua;
+  color: red; 
+}
