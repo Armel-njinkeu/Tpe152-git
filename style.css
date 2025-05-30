@@ -74,3 +74,4 @@ footer{
   background-color: aqua;
   color: red; 
 }
+@media screen and (max-width: 700px max-height:700px)
